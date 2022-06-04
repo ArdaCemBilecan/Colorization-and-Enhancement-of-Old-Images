@@ -12,6 +12,7 @@ Besides we did face detection thus we can make firm rate of face in the image. I
 Finally we made image enhancement. It is for converting low resolution image to high resolution image.
 
 As a Result:
+
 ![Colorization py](https://user-images.githubusercontent.com/44208327/172026615-868d7499-beca-4651-981d-4a543342190c.png)
 
 (a) is original image , (b) is colorized image. As you can see the result is so close the original image.
