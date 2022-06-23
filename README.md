@@ -3,6 +3,7 @@
 Requrequirements:
 
 In this project we worked with CUDA. Besides you will need to download your CUDA version for you.
+
 Link: https://developer.nvidia.com/cuda-downloads
 
 Libraries:
@@ -49,4 +50,29 @@ As a Result:
 
 ![face_detection](https://user-images.githubusercontent.com/44208327/172026766-4eeef3f8-7386-4a4e-b197-1880e7b48a0e.png)
 
-Face detection.
+
+How to use it:
+
+Firstly You must go to this link : https://huggingface.co/simayhosmeyve/pix2pix
+
+Then you can choose your process.
+
+Example:
+
+Colorization:
+
+![renkelndirme](https://user-images.githubusercontent.com/44208327/175300041-13be232a-8ec6-4677-b0f4-0ae610240526.png)
+
+
+![face_color](https://user-images.githubusercontent.com/44208327/175300139-6bcd1610-00c5-41cc-bfdf-47ba8fa9c0e0.png)
+
+
+Repair:
+
+![repair](https://user-images.githubusercontent.com/44208327/175300103-fc0b8a0b-007a-4cdb-8b45-66b8d2bf00e2.png)
+
+
+
+
+
+
