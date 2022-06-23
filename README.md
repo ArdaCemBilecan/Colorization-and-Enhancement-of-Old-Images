@@ -1,4 +1,20 @@
-# Colorization-and-Enhancement-of-Old-Images-
+# Colorization-and-Enhancement-of-Old-Images
+
+Requrequirements:
+
+In this project we worked with CUDA. Besides you will need to download your CUDA version for you.
+Link: https://developer.nvidia.com/cuda-downloads
+
+Libraries:
+Tensorflow 2.9.0 - Keras
+Numpy
+OpenCV
+Matplotlib
+Glob
+Time
+
+
+
 Colorization and Enhancement of Old Images Using Generative Adversarial Networks(GAN) with Pix2pix algorithm.
 ![Pix2pix_Architecture](https://user-images.githubusercontent.com/44208327/172026753-410766a6-9e1a-420a-8dbc-8ed4c6145161.png)
 
