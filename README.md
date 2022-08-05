@@ -53,7 +53,7 @@ As a Result:
 
 How to use it:
 
-Firstly You must go to this link : https://huggingface.co/simayhosmeyve/pix2pix
+Firstly You must go to this link : https://huggingface.co/spaces/simayhosmeyve/Image_Enhancement
 
 Then you can choose your process.
 
